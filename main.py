@@ -17,13 +17,16 @@ class Bot(Updater):
             states={
                 MENU: [MessageHandler(Filters.regex("^📹 YouTube"), self.YouTube.initialize)],
                 LANGUAGE: [MessageHandler(Filters.text, self.language)],
-                YOU_TUBE_GET_URL_OR_ID: [MessageHandler(Filters.text, self.YouTube.get_url_or_id)]
+                YOU_TUBE_GET_URL_OR_ID: [MessageHandler(Filters.text, self.YouTube.get_url_or_id)],
+                VIDEO_ACTIONS: [CallbackQueryHandler(self.YouTube.download_video, pattern="^download_video"), CallbackQueryHandler(self.YouTube.download_audio, pattern="^download_audio"), CallbackQueryHandler(self.YouTube.save_video, pattern="^save_video")]
 
             },
             fallbacks=[
 
             ]
         ))
+
+        self.dispatcher.add_handler(MessageHandler(Filters.photo, self.image_handler))
 
     def start(self, update: Update, context: CallbackContext):
         user = update.message.from_user
@@ -43,6 +46,10 @@ class Bot(Updater):
         db.create_user(user.id, language)
         update.message.reply_text(SUCCESSFULLY_REGISTERED[language], reply_markup=menu_keyboards(language))
         return MENU
+
+    def image_handler(self, update:Update, context: CallbackContext):
+        file = update.message.photo[-1].get_file().download()
+        print(file)
 
     def run(self):
         self.start_polling()

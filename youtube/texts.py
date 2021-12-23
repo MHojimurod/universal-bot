@@ -10,3 +10,9 @@ URL_NOT_MATCH = [
     "Извините неправилно адрес!",
     "Sorry, invalid url!"
 ]
+
+SAVE_VIDEO = [
+    "💾 Videoni saqlash",
+    "💾 Сохранит видео",
+    "💾 Save video"
+]

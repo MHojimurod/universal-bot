@@ -1,5 +1,6 @@
 
 import qrcode
+from requests.api import get
 
 def create_qrcode(text, color):
     qr_code_img = qrcode.QRCode()
@@ -13,12 +14,8 @@ def create_qrcode(text, color):
 import cv2
 from pyzbar.pyzbar import decode
 
-
-filename = "qr-code/qr_code.png"
-image = cv2.imread(filename)
-print(decode(image))
-
-
-
-
+def get_qrcode(image):
+    img = cv2.imread(image)
+    data = decode(img)[0].data.__str__()
+    return data
 

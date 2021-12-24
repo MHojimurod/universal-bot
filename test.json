@@ -1,0 +1,222 @@
+{
+    "matches": [
+        {
+            "id": "435800625",
+            "offset": 0.311184722,
+            "channel": "0",
+            "timeskew": -0.00028806925,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {},
+    "timestamp": 1640344697168,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "435800625",
+        "title": "Seni Deb",
+        "subtitle": "Eldido",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/38/bf/ca/38bfca0e-bba4-aef0-9a7a-6af7d4dd6fe7/cover.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/38/bf/ca/38bfca0e-bba4-aef0-9a7a-6af7d4dd6fe7/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/38/bf/ca/38bfca0e-bba4-aef0-9a7a-6af7d4dd6fe7/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:181824p:c7c7d5s:b4bacat:a4a4b1q:959aa9"
+        },
+        "share": {
+            "subject": "Seni Deb - Eldido",
+            "text": "Мое открытие на Shazam: Eldido - Seni Deb.",
+            "href": "https://www.shazam.com/track/435800625/seni-deb",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/38/bf/ca/38bfca0e-bba4-aef0-9a7a-6af7d4dd6fe7/cover.jpg/400x400cc.jpg",
+            "twitter": "Мое открытие на @Shazam: Eldido – Seni Deb.",
+            "html": "https://www.shazam.com/snippets/email-share/435800625?lang=ru&country=RU",
+            "snapchat": "https://www.shazam.com/partner/sc/track/435800625"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1574361654"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/14/f3/ae14f3e6-49d0-b072-03f8-1db06eab9b18/mzaf_13080878809653608405.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "ОТКРЫТЬ В",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/ru/album/seni-deb/1574361653?i=1574361654&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/ru/album/seni-deb/1574361653?i=1574361654&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Открыть в Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": False,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "КУПИТЬ",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/ru/album/seni-deb/1574361653?i=1574361654&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Купить на iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": False,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Открыть в Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Seni%20Deb%20Eldido"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Открыть в Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Seni+Deb%27%20artist%3A%27Eldido%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": False,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/38/bf/ca/38bfca0e-bba4-aef0-9a7a-6af7d4dd6fe7/cover.jpg/400x400cc.jpg",
+                        "caption": "Seni Deb"
+                    }
+                ],
+                "tabname": "Песня",
+                "metadata": [
+                    {
+                        "title": "Альбом",
+                        "text": "Seni Deb"
+                    },
+                    {
+                        "title": "Лейбл",
+                        "text": "United Music Group"
+                    },
+                    {
+                        "title": "Выпущено",
+                        "text": "2021"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Видео",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/RU/iphone/435800625/youtube/video?q=Eldido+%22Seni+Deb%22"
+            },
+            {
+                "type": "ARTIST",
+                "id": "206731367",
+                "name": "Eldido",
+                "verified": False,
+                "url": "https://cdn.shazam.com/digest/v1/ru/RU/iphone/artist/206731367/recentpost",
+                "actions": [
+                    {
+                        "type": "artistposts",
+                        "id": "206731367"
+                    },
+                    {
+                        "type": "artist",
+                        "id": "206731367"
+                    }
+                ],
+                "tabname": "Исполнитель",
+                "toptracks": {
+                    "url": "https://cdn.shazam.com/shazam/v3/ru/RU/iphone/-/tracks/artisttoptracks_206731367?startFrom=0&pageSize=20&connected="
+                }
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/ru/RU/iphone/-/tracks/track-similarities-id-435800625?startFrom=0&pageSize=20&connected=",
+                "tabname": "Похожие"
+            }
+        ],
+        "url": "https://www.shazam.com/track/435800625/seni-deb",
+        "artists": [
+            {
+                "id": "206731367",
+                "adamid": "704306376"
+            }
+        ],
+        "isrc": "RUB732023299",
+        "genres": {
+            "primary": "Поп"
+        },
+        "urlparams": {
+            "{tracktitle}": "Seni+Deb",
+            "{trackartist}": "Eldido"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/ru/album/seni-deb/1574361653?i=1574361654&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/ru/RU/iphone/704306376/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios",
+            "relatedhighlightsurl": "https://cdn.shazam.com/video/v3/ru/RU/iphone/206731367/artist-similarities-id-206731367/relatedhighlights?max_artists=5&affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/ru/RU/iphone/-/tracks/track-similarities-id-435800625?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1574361653"
+    },
+    "tagid": "D773304D-8A45-4C3B-B326-65EEDC397E9A"
+})

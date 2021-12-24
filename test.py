@@ -1,5 +1,3 @@
-from pytube import YouTube
+f = open('asdasd', "w")
 
-
-yt = YouTube("https://www.youtube.com/watch?v=0N2ePiPaUts")
-yt.streams
+print(type(f))

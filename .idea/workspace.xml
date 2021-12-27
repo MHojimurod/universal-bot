@@ -1,78 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6c1edc37-42c3-49db-aa84-eee5439ad165" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/universal-bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/universal-bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boney M. - Rasputin (Sopot Festival 1979) (VOD)-16y1AkoZkmQ.mp4.part" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter/img_to_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter/img_to_pdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter/word/hello.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter/word/hi.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/BINARIES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/COPYING3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/README-XPDF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/freetype6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/jpeg62.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libcairo-2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libexpat-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libfontconfig-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libgcc_s_dw2-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libpixman-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libpng16-16.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libpoppler-78.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libpoppler-cpp-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libstdc++-6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/libtiff3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdfdetach.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdffonts.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdfimages.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdfinfo.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdfseparate.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdftocairo.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdftohtml.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdftoppm.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdftops.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdftotext.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/pdfunite.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/bin/zlib1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-document.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-embedded-file.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-font.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-global.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-image.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-page-renderer.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-page-transition.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-page.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-rectangle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-toc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/include/poppler/cpp/poppler-version.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdfdetach.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdffonts.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdfimages.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdfinfo.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdfseparate.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdftocairo.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdftohtml.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdftoppm.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdftops.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdftotext.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pop/share/man/man1/pdfunite.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qr-code/qr-code.py" beforeDir="false" afterPath="$PROJECT_DIR$/qr-code/qr-code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +27,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Python.shm">
     <configuration name="img_to_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -155,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640344488675</updated>
-      <workItem from="1640344490297" duration="439000" />
+      <workItem from="1640344490297" duration="1822000" />
     </task>
     <servers />
   </component>
